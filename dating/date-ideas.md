@@ -21,3 +21,9 @@
 - https://do206.com/
 
 - https://docs.google.com/spreadsheets/d/1-DnMD45EQHvZCNJJxQRSB-g-gDk4JbkJz5VZH6UuHQA/edit?gid=0#gid=0
+
+## Concerts/Raves
+
+- https://www.kuow.org/stories/under-the-bridge-a-portrait-of-seattle-s-renegade-raves
+    - https://www.instagram.com/immortal.exp/
+- Electronic music calendars - https://19hz.info/
