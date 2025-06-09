@@ -18,9 +18,9 @@
 
 ## Event Pages
 
-- https://do206.com/
+- [do206](https://do206.com/)
 
-- https://docs.google.com/spreadsheets/d/1-DnMD45EQHvZCNJJxQRSB-g-gDk4JbkJz5VZH6UuHQA/edit?gid=0#gid=0
+- [Google Sheets List - To Add/Submission box](https://docs.google.com/spreadsheets/d/1-DnMD45EQHvZCNJJxQRSB-g-gDk4JbkJz5VZH6UuHQA/edit?gid=0#gid=0)
 
 ## Concerts/Raves
 
